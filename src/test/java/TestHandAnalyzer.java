@@ -11,7 +11,7 @@ public class TestHandAnalyzer {
     public void beforeSuit() {
         handAnalyzer = new HandAnalyzer();
         System.out.println("Score 0 = flush\n" +
-                "Score 1 = straight\nScore 1 = straight\n" +
+                "Score 1 = straight\n" +
                 "Score 2 = four of a kind\n" +
                 "Score 3 = full house\n" +
                 "Score 4 = three of a kind\n" +
