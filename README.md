@@ -6,8 +6,6 @@ Score 0 = flush
 
 Score 1 = straight
 
-Score 1 = straight
-
 Score 2 = four of a kind
 
 Score 3 = full house
